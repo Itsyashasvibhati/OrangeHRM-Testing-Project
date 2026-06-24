@@ -1,1 +1,146 @@
-# OrangeHRM-Testing-Project
+# OrangeHRM Testing Project
+
+## Screenshots
+
+### Login Module
+
+![Login Module](screenshots/login-module.png)
+
+### Dashboard Module
+
+![Dashboard Module](screenshots/dashboard-module.png)
+
+### Admin Module Testing
+
+![Admin Module](screenshots/admin-module.png)
+
+### Test Scenario Document
+
+![Test Scenarios](screenshots/test-scenarios.png)
+
+### Test Case Document
+
+![Test Cases](screenshots/test-cases.png)
+
+### Bug Report Document
+
+![Bug Reports](screenshots/bug-reports.png)
+
+### Test Summary Report
+
+![Test Summary](screenshots/test-summary-report.png)
+
+---
+
+## Overview
+
+This repository contains complete QA documentation and testing artifacts for the OrangeHRM Open Source Human Resource Management System.
+
+The project focused on validating core HRMS workflows, user management, employee records, leave management, recruitment, and system functionality through structured manual testing.
+
+---
+
+## Project Details
+
+| Field            | Details               |
+| ---------------- | --------------------- |
+| Project Name     | OrangeHRM Testing     |
+| Application Type | Web Application       |
+| Testing Type     | Manual Testing        |
+| Duration         | March 2026 – May 2026 |
+| Status           | Completed             |
+
+---
+
+## Modules Tested
+
+* Login
+* Dashboard
+* Admin
+* PIM
+* Leave
+* Time
+* Recruitment
+* My Info
+* Performance
+* Directory
+* Maintenance
+* Claim
+* Buzz
+
+---
+
+## Testing Performed
+
+* Functional Testing
+* UI Testing
+* Validation Testing
+* Regression Testing
+* Smoke Testing
+* Exploratory Testing
+* Navigation Testing
+
+---
+
+## Testing Metrics
+
+| Metric         | Count |
+| -------------- | ----- |
+| Test Scenarios | 74+   |
+| Test Cases     | 100+  |
+| Bugs Reported  | 20+   |
+
+---
+
+## Deliverables
+
+✅ Test Scenarios
+
+✅ Test Cases
+
+✅ Bug Reports
+
+✅ Test Execution Report
+
+✅ Test Summary Report
+
+---
+
+## Project Summary
+
+Designed and executed 74+ test scenarios and 100+ test cases across multiple OrangeHRM modules. Identified and reported defects using Jira, performed functional, UI, regression, and validation testing, and verified defect fixes through retesting activities.
+
+---
+
+## Testing Services
+
+Available for:
+
+* Web Application Testing
+* Mobile Application Testing
+* API Testing using Postman
+* Functional Testing
+* Regression Testing
+* UI Testing
+* QA Documentation
+* Bug Reporting
+
+Hourly testing support available.
+
+---
+
+## Connect With Me
+
+📧 Email: YOUR_EMAIL
+
+💼 LinkedIn: YOUR_LINKEDIN
+
+💻 GitHub: YOUR_GITHUB
+
+🌐 Portfolio: YOUR_PORTFOLIO
+
+🎯 Topmate: YOUR_TOPMATE
+
+---
+
+⭐ If you found this repository helpful, please give it a Star and connect with me on LinkedIn.
