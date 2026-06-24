@@ -4,7 +4,7 @@
 
 ### Login Module
 
-![Login Module](screenshots/login-module.png)
+![Login Module](https://github.com/Itsyashasvibhati/OrangeHRM-Testing-Project/blob/299d50b55a67727119aeae6ca2d723625f4edb24/Orangehrm1.png)
 
 ### Dashboard Module
 
