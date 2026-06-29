@@ -8,15 +8,15 @@
 
 ### Test Scenario Document View
 
-![Test Scenarios](https://drive.google.com/file/d/1jW8OrHDQvY6IcNtumxYvx1zfF8emHylW/view?usp=sharing)
+https://drive.google.com/file/d/1jW8OrHDQvY6IcNtumxYvx1zfF8emHylW/view?usp=sharing
 
 ### Test Case Report
 
-![Test Cases](https://drive.google.com/file/d/1jW8OrHDQvY6IcNtumxYvx1zfF8emHylW/view?usp=sharing)
+https://drive.google.com/file/d/1jW8OrHDQvY6IcNtumxYvx1zfF8emHylW/view?usp=sharing
 
 ### Bug Report Report
 
-![Bug Reports](https://drive.google.com/file/d/1jW8OrHDQvY6IcNtumxYvx1zfF8emHylW/view?usp=sharing)
+https://drive.google.com/file/d/1jW8OrHDQvY6IcNtumxYvx1zfF8emHylW/view?usp=sharing
 
 ### Test Summary Report
 
