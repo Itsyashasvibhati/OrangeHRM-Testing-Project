@@ -123,15 +123,15 @@ Hourly testing support available.
 
 ## Connect With Me
 
-📧 Email: YOUR_EMAIL
+📧 Email: itsyashasvibhati24@gmail.com
 
-💼 LinkedIn: YOUR_LINKEDIN
+💼 LinkedIn: www.linkedin.com/in/yashasvi-bhati-8444b82a1
 
-💻 GitHub: YOUR_GITHUB
+💻 GitHub: https://github.com/Itsyashasvibhati
 
-🌐 Portfolio: YOUR_PORTFOLIO
+🌐 Portfolio: https://my-portfolio-su5d.vercel.app/
 
-🎯 Topmate: YOUR_TOPMATE
+🎯 Topmate: https://topmate.io/theyashasvibhati/
 
 ---
 
