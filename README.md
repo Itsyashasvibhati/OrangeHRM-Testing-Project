@@ -6,29 +6,21 @@
 
 ![Login Module](https://github.com/Itsyashasvibhati/OrangeHRM-Testing-Project/blob/299d50b55a67727119aeae6ca2d723625f4edb24/Orangehrm1.png)
 
-### Dashboard Module
+### Test Scenario Document View
 
-![Dashboard Module](screenshots/dashboard-module.png)
+![Test Scenarios](https://drive.google.com/file/d/1jW8OrHDQvY6IcNtumxYvx1zfF8emHylW/view?usp=sharing)
 
-### Admin Module Testing
+### Test Case Report
 
-![Admin Module](screenshots/admin-module.png)
+![Test Cases](https://drive.google.com/file/d/1jW8OrHDQvY6IcNtumxYvx1zfF8emHylW/view?usp=sharing)
 
-### Test Scenario Document
+### Bug Report Report
 
-![Test Scenarios](screenshots/test-scenarios.png)
-
-### Test Case Document
-
-![Test Cases](screenshots/test-cases.png)
-
-### Bug Report Document
-
-![Bug Reports](screenshots/bug-reports.png)
+![Bug Reports](https://drive.google.com/file/d/1jW8OrHDQvY6IcNtumxYvx1zfF8emHylW/view?usp=sharing)
 
 ### Test Summary Report
 
-![Test Summary](screenshots/test-summary-report.png)
+![Test Summary](https://github.com/Itsyashasvibhati/OrangeHRM-Testing-Project/blob/b183f63f3faa69f2b335a0e87717c274931705a9/SummaryReport.png)
 
 ---
 
